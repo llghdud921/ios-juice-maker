@@ -24,8 +24,6 @@ iOS 쥬스 메이커 재고관리 앱
 
 ### 설계도
 
-<img src="https://user-images.githubusercontent.com/25794814/138388654-d7f61a90-3be3-494c-b61f-d2e7b1bd4071.png" width="700">
-
 ---
 ## [Step1] JuiceMaker Type 정의
 ### keyword
@@ -75,13 +73,6 @@ iOS 쥬스 메이커 재고관리 앱
     
     위와 같은 경우가 아니라면 메서드가 결과값을 반환하도록 해서 좀 더 능동적으로 처리할 수 있도록 에러를 사용하지 않는 방향으로 코드를 구현했습니다.
     
-- **객체지향설계를 Flowchart로 구현했을 때의 문제점**
-  
-  인스턴스 간에 메서드를 사용하여 메시지를 주고 받는 관계를 표현할 수 없습니다.
-  
-FruitStore             |  JuiceMaker
-:-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/40068674/138082027-66fdd3d9-1b85-4cbf-ad6f-83fb9ba5bcac.png" width="800" height="700">  |  <img src="https://user-images.githubusercontent.com/40068674/138082093-2030f79d-be82-4864-b9d3-4581d5794667.png" width="800" height="700">
 
 ## [Step2] **초기화면 , 재고관리 기능구현**
 
