@@ -10,6 +10,7 @@
 
 ### ✔️ 구현모습
 
+![Dec-27-2021 22-58-59](https://user-images.githubusercontent.com/40068674/147479054-7cb5bab3-a607-47b0-ad8d-26c6a3ccb0e0.gif)
 
 
 **[Step 1]**
